@@ -1,10 +1,26 @@
-import {Container} from './styles'
-
+import {Container, Links} from './styles'
+import { Button } from '../../components/Button'
+import { Header } from '../../components/Header'
+import { Section } from '../../components/Section'
 export default function Details(){
 
     return(
         <Container>
-            <h1>OPA</h1>
+            <Header/>
+
+            <Section title="Links úteis">
+                <Links>
+                    <li>
+                        <a href="#">https://www.rocketseat.com.br</a>
+                    </li>
+                    <li>
+                        <a href="#">https://www.rocketseat.com.br</a>
+                    </li>
+                    
+                </Links>
+            </Section>
+
+            <Button title="Voltar"></Button>
         </Container>
     )
 }
