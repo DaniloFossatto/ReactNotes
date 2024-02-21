@@ -24,6 +24,7 @@ text-align: center;
 >h2{
     font-size: 24px;
     margin: 48px 0;
+   
 }
 >p{
     font-size: 14px;
