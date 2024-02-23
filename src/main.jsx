@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import {ThemeProvider} from "styled-components"
-import { New } from './Pages/New'
+import { New } from './Pages/New/new'
 import  theme from './styles/theme'
 import GlobalStyles from './styles/global'
 

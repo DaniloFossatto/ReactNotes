@@ -7,6 +7,7 @@ import { ButtonText } from '../../components/ButtonText'
 import {FiPlus} from 'react-icons/fi'
 import { Note } from '../../components/Note'
 
+
 export function Home(){
     
     return (
