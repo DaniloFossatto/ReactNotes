@@ -5,8 +5,8 @@ import { Header } from '../../components/Header'
 import { Section } from '../../components/Section'
 import { Tag } from '../../components/Tag'
 
-export default function Details(){
-
+export function Details(){
+ 
     return(
         <Container>
             <Header/>

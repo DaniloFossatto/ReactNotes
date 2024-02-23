@@ -30,8 +30,8 @@ export function New(){
 
                     <Section title="Maracadores">
                         <div className="tags">
-                        <NoteItem value="https://github.com/DaniloFossatto"/>
-                        <NoteItem isNew/>
+                        <NoteItem value="React"/>
+                        <NoteItem isNew/> 
                         </div>
                     </Section>
 
